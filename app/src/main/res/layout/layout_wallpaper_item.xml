@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_background2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:orientation="vertical"
+    android:padding="2.0dip">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:foreground="?android:selectableItemBackground"
+        card_view:cardCornerRadius="0.0dip"
+        card_view:cardElevation="0.0dip">
+
+        <RelativeLayout
+            android:id="@+id/card_back2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageview"
+                android:layout_width="fill_parent"
+                android:layout_height="224dp"
+                android:contentDescription="@string/wallbar_imagetxt"
+                android:maxWidth="200.0dip"
+                android:scaleType="centerCrop" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="75.0dip"
+                android:layout_below="@id/imageview">
+
+                <ImageView
+                    android:id="@+id/wall_bar2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="#0E3955"
+                    android:contentDescription="@string/wallbar_imagetxt"
+                    android:src="@drawable/wall_bar" />
+
+                <ImageView
+                    android:id="@+id/fav_onList"
+                    android:layout_width="42.0dip"
+                    android:layout_height="42.0dip"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="5.0dip"
+                    android:contentDescription="@string/favourite_icontxt"
+                    android:padding="2dp"
+                    android:src="@drawable/app_ic_card_fav_on"
+                    card_view:tint="@android:color/white" />
+
+                <RelativeLayout
+                    android:id="@+id/fav_container2"
+                    android:layout_width="48.0dip"
+                    android:layout_height="48.0dip"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@android:color/transparent" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical"
+                    android:paddingLeft="2dp">
+
+                    <TextView
+                        android:id="@+id/wall_title2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/open_sans_semibold"
+                        android:singleLine="true"
+                        android:text="@string/loadingtxt"
+                        android:textColor="@android:color/white"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:visibility="visible" />
+
+                    <TextView
+                        android:id="@+id/wall_author2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/opensansbold"
+                        android:singleLine="true"
+                        android:text="@string/loadingtxt"
+                        android:textColor="@android:color/white"
+                        android:textSize="10sp"
+                        android:visibility="visible"
+                        tools:ignore="SmallSp" />
+                </LinearLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564907639572",
+    "firebase_url": "https://wallpicx-9514a.firebaseio.com",
+    "project_id": "wallpicx-9514a",
+    "storage_bucket": "wallpicx-9514a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564907639572:android:9af1c728604c934f8d3801",
+        "android_client_info": {
+          "package_name": "com.merchpandas.wallpicx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564907639572-flttmnp8mpb873c6h0e8t7iif0ed4gjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.merchpandas.wallpicx",
+            "certificate_hash": "a1d996c33c4684df5314dde8a0a37431c287dc65"
+          }
+        },
+        {
+          "client_id": "564907639572-4ajcf0m6anob2p52173cu2jiumjp9acq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQKocpukFbn0YaGvfs91De0KwYcS6XGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564907639572-4ajcf0m6anob2p52173cu2jiumjp9acq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

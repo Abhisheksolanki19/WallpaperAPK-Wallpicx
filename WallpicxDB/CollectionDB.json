@@ -1,0 +1,138 @@
+{
+  "CollectionBackground": {
+    "01": {
+      "name": "Trending",
+      "imageLink": "https://www.brandcrowd.com/gallery/brands/pictures/picture15677086279353.jpg"
+    },
+    "02": {
+      "name": "Recents",
+      "imageLink": "https://wallpapercave.com/wp/guj7SaZ.jpg"
+    },
+    "03": {
+      "name": "Animals",
+      "imageLink": "https://wallpapercave.com/wp/xCXMLur.jpg"
+    },
+    "04": {
+      "name": "Anime",
+      "ImageLink": "https://images.hdqwalls.com/wallpapers/tell-me-the-truth-xj.jpg"
+    },
+    "05": {
+      "name": "Bollywood",
+      "imageLink": "https://miro.medium.com/max/1024/1*XNEc7sImHVsOADV_iY8xYQ.png"
+    },
+    "06": {
+      "name": "Logos",
+      "imageLink": "https://i.imgur.com/fEXvrdY.jpg"
+    },
+    "07": {
+      "name": "Cars & Vehicles",
+      "imageLink": "https://wallpaperaccess.com/full/33115.jpg"
+    },
+    "08": {
+      "name": "Design",
+      "imageLink": "https://i.pinimg.com/originals/4f/eb/29/4feb2937eb0dc08a8c73773e3f55b37e.jpg"
+    },
+    "09": {
+      "name": "Games",
+      "imageLink": "https://wallpaperaccess.com/full/1841989.jpg"
+    },
+    "010": {
+      "name": "Holidays",
+      "imageLink": "https://wallpaperstock.net/wallpapers/thumbs1/16475.jpg"
+    },
+    "011": {
+      "name": "Love",
+      "imageLink": "https://cdn.pixabay.com/photo/2018/01/04/19/43/love-3061483__340.jpg"
+    },
+    "012": {
+      "name": "Nature",
+      "imageLink": "https://images.pexels.com/photos/257360/pexels-photo-257360.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    "013": {
+      "name": "Sayings",
+      "imageLink": "https://www.mobilesmspk.net/user/images/wallpaper_images/2014/02/22/www.mobilesmspk.net_awesome-quote_2753.jpg"
+    },
+    "014": {
+      "name": "Sport",
+      "imageLink": "https://wallpaperaccess.com/full/343549.jpg"
+    },
+    "015": {
+      "name": "Technology",
+      "imageLink": "https://wallpapercave.com/wp/wp1997584.jpg"
+    },
+    "016": {
+      "name": "Marvel",
+      "imageLink": "https://wallpapersmug.com/download/3840x2400/0b4ebb/iron-man-mask-minimal.jpg"
+    },
+    "017": {
+      "name": "Dc",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShADS5AXNGTD4rvCLB-GTnFFSVC5JrCpoPBzD8LGrZHxux7aLs"
+    },
+    "018": {
+      "name": "other",
+      "imageLink": "https://wallpapercave.com/wp/wp4330674.jpg"
+    }
+  },
+  "Wallpapers": {
+    "01": {
+      "imageLink": "https://fsa.zobj.net/crop.php?r=5qwux2JfYLP_v2ccfs2sky0D_BrjTMo7QgjxirAjDs-4BiS_SxR3Z6YH2TVbZ_MYwTc2M3N4bGkVst-UDV9pbB7PIGnP28QK9PLb_kl1bYrqfm4XbR9T0n6IPDZFXVMgJJguAICW4grbCo92",
+      "collectionId": "016"
+    },
+    "02": {
+      "imageLink": "https://fsb.zobj.net/crop.php?r=1P4tUbZ_SSor4w3knFNz41x52c6_-RvoUzkiJ8ZfS3pUKN1fzp7xv2u4xMwSigm-bmUgGmjemj-Ed1lAwiXKjWwa9ZvGCLjEXSq1PIDNEh_TcCidgTEOKwhElTQ8YtlojpTVul7ytNhvQDII",
+      "collectionId": "016"
+    },
+    "03": {
+      "imageLink": "https://fsa.zobj.net/crop.php?r=AWp_K-liprUFy0D8LOBMuVaxc0-lOL9_lodxoKKPMu6aZMi90FgiqzElSRjwXd4_jsD6J2Bvvnb9NhivlilmWZVwAH6cn0iT8nnN8NaF5h5_k-qg6cwJkrsjVjyKiJHsGn-1lZiFOoMstgM8",
+      "collectionId": "016"
+    },
+    "04": {
+      "imageLink": "https://fsb.zobj.net/crop.php?r=XvvfU33qKOd1Tu40iE-wnCfDDTC8Bk4ULxljGD1NE8053Z21gN0EjXcKaHD36Vnr-Nx0m7kfPO9aO9L90GwQ46nqUa4AZUhc3cEZ5EI4rmtUVRBT_8lzGJJylSZaAWcbkiFrwO9U3tRUPWTR",
+      "collectionId": "016"
+    },
+    "05": {
+      "imageLink": "https://fsb.zobj.net/crop.php?r=G9wqnen5h5w5tmXx1sagbVc_M4jImgCV3fT7TzzSvEmvh0J-pXEbvZhx4PGqGs9kwOqOPUW-4YlPAqJDJhTIVpknervlcBzvCIPpm4nO6K2gpVlgxld3fde4EYOYncLjHe0_lWuKpTJmA9u1",
+      "collectionId": "016"
+    },
+    "06": {
+      "imageLink": "https://fsa.zobj.net/crop.php?r=L38xy1BYy_3jwJS6FmP6TShblDusta5QYWYyXlrGsOCPJdnnn0uqfH6N8-ZO_u96nB68DPSNg8NgNLACeQqCxg-Ub6zw4gpswRW_7Y3VErcUTx8t7RcHaN9QFEj60eFqBxsui4A04uB5yOLe",
+      "collectionId": "016"
+    },
+    "07": {
+      "imageLink": "https://fsb.zobj.net/crop.php?r=RUHeMRz7zph_w45i4XIS_KvR94HKMexEEb27NhxA2_-t2TFLmcLwerLW0flih70GMLEsOrpH1GrCelCRuFXHaRbU2yUqFyZXWO132N8_o-HruFkHn1YcmWnqopzytxqJLl65TuDfKgrwq--o",
+      "collectionId": "016"
+    },
+    "08": {
+      "imageLink": "https://fsa.zobj.net/crop.php?r=2JWdIBzoSA4EeOo1R9UBU5RZhRFtPIpVyb6-VrQJn0E3KlZuuf6v_C-j2gvEgpPK3-xlEy_GFxwoFsbLctm1amM5ytdvhBENoMhcF4yx4iktgRehmocKuoM8KwYwkv9nNJG8_0XsdXaMQAda",
+      "collectionId": "016"
+    },
+    "09": {
+      "imageLink": "https://fsa.zobj.net/crop.php?r=zzX9N_e2eDK1uaqaLqGpRF7XeomIzkKmXfTYB2KdGidp2-uB81CzD8dJyy81ts2XWFSHzJBejd571uxmWWxIAOGUtpD3Fa4l9Rq9kQBdpKT1TJu1iCepFw5x3RF_5RndY5wb9Z0woYk1khWe",
+      "collectionId": "016"
+    },
+    "010": {
+      "imageLink": "https://fsb.zobj.net/crop.php?r=HFmnHMOK_z9y-iCMd3soplx9wJmpupe-e73n7gut44EYoN3UIBj-LUibN14568E52OUsozohXSzjFLJmibmYi-uLdvy-opgXTYSWl1sP8J1Gr67Ti-vaAHRRbb1HjUym2-F1Cc7VrS8itybA",
+      "collectionId": "016"
+    },
+    "011": {
+      "imageLink": "https://fsb.zobj.net/crop.php?r=ae0Bl1BvBg5Mm1X42hvOKE1j2CdEdEvqP01ZTPXAS0v31THZh9EUevyvWy8gZ5295H2UXZbbRDRElxi5GKxV89ILgfqV72LvcKp_C3NhNgS-jCqN1Pekm1xEqooZocLdMfEyQnZor9CxwXcr",
+      "collectionId": "016"
+    },
+    "012": {
+      "imageLink": "https://fsb.zobj.net/crop.php?r=SyCkNjMzNftlVc3RxvftYnTUxkPMGvnrB-xsoToNHbV3vHw43urR1bxZGP-s2iT6a-xQj40XtvjLFcm65pSqF6djnXTXjRCyrRYy6qECb-x2tWNk5M9dvyfgbFBNc0Sb6YX_N466QYHo0B6M",
+      "collectionId": "016"
+    },
+    "013": {
+      "imageLink": "https://fsb.zobj.net/crop.php?r=Q5i5EyR7XxMB4IFV6uhOrYTkgs-3Eipt9tF5r8NNgfInRSggsKkq_tZV4-84EA1li2mYRfJK9_LSUBfEIikLQYT-869OnvZ_4eE4Yp6GIYcc9ec9MtzuDYnFkiYj1aD-rfORp3rUC12-f3TW",
+      "collectionId": "016"
+    },
+    "014": {
+      "imageLink": "https://fsa.zobj.net/crop.php?r=u4uME-dfrTnoE44p17NRueL4xkzCGxJJksc1q_Jhazz2GbtmwE5E8LSvrXBmcU9WuwEERlPrWLGnz-sb9QfDGqmqU6L-NnCKImeQSkhYsEDJelmekktbS9LKaXRAQ9KXFdZ8goTUSM6l7ozP",
+      "collectionId": "016"
+    },
+    "015": {
+      "imageLink": "https://freepikpsd.com/wp-content/uploads/2019/09/Whatever-it-Takes-Captain-America-iPhone-Wallpaper-Free.jpg",
+      "collectionId": "016"
+    }
+  }
+}
